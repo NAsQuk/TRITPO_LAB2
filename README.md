@@ -85,14 +85,14 @@
 ## 2.2 Интерфейс пользователя
 Стартовое окно приложения.
 
-![Стартовое окно приложения](Mockups/StartScreen.png)  
+![Стартовое окно приложения](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/StartScreen.png)  
 Главное окно приложения.  
-![Главное окно приложения](Mockups/MainWindow1.png)  
+![Главное окно приложения](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/MainWindow1.png)  
 Окно карт в приложении  
-![Окно карт в приложении ](Mockups/Maps.png)  
+![Окно карт в приложении ](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/Maps.png)  
 Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
 Wiget приложения  
-![Wiget приложения ](Mockups/Wiget.png)  
+![Wiget приложения ](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/Wiget.png)  
 Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
 <a name="user_specifications"/>
 
