@@ -97,8 +97,7 @@ MyFin.by - Курсы валют и банки(вес 11 мб, встроенн�
 Главное окно приложения.  
 ![Главное окно приложения](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/MainWind.png)  
 Окно карт в приложении  
-![Окно карт в приложении ](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/Maps.png)  
-Главное окно приложения.  
+![Окно карт в приложении ](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/Maps.png)   
 Wiget приложения  
 ![Wiget приложения ](https://github.com/NAsQuk/TRITPO_LAB2/blob/main/mockups/Wiget.png)
 <a name="user_specifications"/>
